@@ -1,6 +1,6 @@
 # Week 1 — Info System
 
-> Phase 1 | Dates: _fill in_
+> Phase 1 | Dates: 5.13-5.15
 
 ---
 
@@ -12,24 +12,15 @@ _Brief summary in 2–3 sentences._
 
 ## 💡 Key things I learned
 
+- Create md file using claude, and publish to github repo
+- Set up public skill from github locally using claude code
 - 
-- 
-- 
-
----
-
-## 🛠 Tools I used
-
-| Tool | What I used it for | Rating |
-|------|--------------------|--------|
-|  |  |  |
-|  |  |  |
 
 ---
 
 ## ✅ What I made / shipped
 
-- [ ] 
+- [I outlined a 7-week AI crash course syllabus tailored for me and hopefully other brand designers. And put together a github ai-learning-log to document the process to share publicly. ] 
 - [ ] 
 
 ---
