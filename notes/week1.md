@@ -22,7 +22,9 @@ _Brief summary in 2–3 sentences._
 
 5.13
 - I outlined a 7-week AI crash course syllabus tailored for me and hopefully other brand designers. And put together a github ai-learning-log to document the process to share publicly. 
-- I installed Zara's "Follow Builders" skill. Custom setting, will start receiving curated news and info daily on weekdays. 
+- I installed Zara's "Follow Builders" skill. Custom setting, will start receiving curated news and info daily on weekdays.
+5.14
+- Installed hyperframes into claude code, and start exploring.
 
 ---
 
