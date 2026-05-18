@@ -1,36 +1,28 @@
 # Week 2 — Claude Code Basics
 
-> Phase 2 | Dates: _fill in_
+> Phase 2 | Dates: 5.18 - 5.22
 
 ---
 
 ## 🗓 What I worked on this week
 
-_Brief summary in 2–3 sentences._
+5.18
+- Initiating a new project idea. From a very basic personal observaiton to form a solid concept with Gemini.
+
 
 ---
 
 ## 💡 Key things I learned
 
+- Agentic tools
 - 
+
 - 
-- 
-
----
-
-## 🛠 Tools I used
-
-| Tool | What I used it for | Rating |
-|------|--------------------|--------|
-|  |  |  |
-|  |  |  |
-
 ---
 
 ## ✅ What I made / shipped
 
-- [ ] 
-- [ ] 
+- The Shelf: A personal book companion designed for readers who treat their library as a thinking tool — not just a reading log. It surfaces patterns in your reading life, offers AI-driven reflection prompts, and helps you intuitively navigate your collection by mood, era, and cognitive energy. The goal is to make your bookshelf feel alive and responsive, like a quiet collaborator that knows you well.] 
 
 ---
 
